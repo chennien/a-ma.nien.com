@@ -1,0 +1,9 @@
+#
+# Robots.txt file for a-ma.nien.com
+#
+# For questions, please contact 8gcmof7k6@relay.firefox.com .
+# https://goo.gl/nCyMnS
+
+User-agent: *
+Disallow: /*.txt$
+Disallow: /*.js$
