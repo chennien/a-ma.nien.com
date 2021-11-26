@@ -1,2 +1,4 @@
 http://a-ma.nien.com/* https://a-ma.nien.com/:splat 301!
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
 /* https://a-ma.nien.com 404
